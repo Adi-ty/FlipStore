@@ -1,0 +1,10 @@
+ITEM,ProductId,Price,Categories,Image Link,Size
+Anarkali kurti,112919744,1164,Topwear,https://res.cloudinary.com/shubh-sardana/image/upload/v1692333743/topwear/anarkali_kurti.jpg,S
+Denim Shirt,245184841,950,Topwear,https://res.cloudinary.com/shubh-sardana/image/upload/v1692333665/topwear/denim_shirt.jpg,L
+High Rise jeans,377946748,900,Bottomwear,https://res.cloudinary.com/shubh-sardana/image/upload/v1692333575/bottomwear/high_rise_jeans.png,L
+Oversized Tshirt,227948238,606,Topwear,https://res.cloudinary.com/shubh-sardana/image/upload/v1692333882/topwear/oversized_tshirt.jpg,M
+Party wear boots,694779932,1174,Footwear,https://res.cloudinary.com/shubh-sardana/image/upload/v1692334122/footwear/party_wear_boots.jpg,M
+Round neck sweater,865234748,960,Topwear,https://res.cloudinary.com/shubh-sardana/image/upload/v1692333947/topwear/round_neck_sweater.jpg,L
+Rugged Cargo pant,531145979,1161,Bottomwear,https://res.cloudinary.com/shubh-sardana/image/upload/v1692334025/bottomwear/rugged_cargo_pant.jpg,M
+Running Shoes,914253133,1099,Footwear,https://res.cloudinary.com/shubh-sardana/image/upload/v1692334262/footwear/running_shoes.png,L
+Synthetic Sandals,528773648,474,Footwear,https://res.cloudinary.com/shubh-sardana/image/upload/v1692334200/footwear/synthetic_sandals.jpg,M
