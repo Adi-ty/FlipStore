@@ -1,6 +1,14 @@
 # FlipStore Recommendation System
 
+<div align="center">
+  <img src="https://github.com/Adi-ty/FlipStore/assets/52607235/ad887a04-fe7a-4693-9228-d400e544b7fa" alt="FlipStore Logo" width=300 height = 300/>
+</div>
+
 Welcome to the FlipStore Recommendation System project! This repository contains both the Flask-based recommendation server and the Next.js web application for a fashion e-commerce website named FlipStore.
+
+## Block Diagram
+![ml-grid drawio (7)](https://github.com/Adi-ty/FlipStore/assets/52607235/21347a6b-1b5a-490f-996d-354dcc6e7277)
+
 
 ## Setup
 
